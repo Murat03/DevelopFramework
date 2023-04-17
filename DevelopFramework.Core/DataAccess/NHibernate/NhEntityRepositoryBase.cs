@@ -19,6 +19,14 @@ namespace DevelopFramework.Core.DataAccess.NHibernate
         {
             using (var session = _nHibernateHelper.OpenSession())
             {
+                if(filter == null)
+                {
+                    return session.Query<TEntity>().ToList();
+                }
+                else
+                {
+                    return session.Query<TEntity>().Where(filter).ToList();
+                }
                 return filter == null 
                     ? session.Query<TEntity>().ToList()
                     : session.Query<TEntity>().Where(filter).ToList();

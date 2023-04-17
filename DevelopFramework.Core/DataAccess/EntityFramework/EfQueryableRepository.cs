@@ -22,7 +22,7 @@ namespace DevelopFramework.Core.DataAccess.EntityFramework
 
         protected virtual IDbSet<T> Entities
         {
-            get{ return _entities ??= _context.Set<T>(); }
+            get{ return _entities ?? (_entities = _context.Set<T>()); }
         }
     }
 }

@@ -22,7 +22,7 @@ namespace DevelopFramework.Core.DataAccess.NHibernate
         {
             get
             {
-                return _entities ??= _nHibernateHelper.OpenSession().Query<T>();
+                return _entities ?? (_entities = _nHibernateHelper.OpenSession().Query<T>());
             }
         }
     }

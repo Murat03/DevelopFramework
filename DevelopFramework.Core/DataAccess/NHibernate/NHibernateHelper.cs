@@ -13,7 +13,13 @@ namespace DevelopFramework.Core.DataAccess.NHibernate
 
         public virtual ISessionFactory SessionFactory
         {
-            get { return _sessionFactory ??= InitializeFactory(); }
+            get { 
+                if( _sessionFactory == null)
+                {
+                    _sessionFactory = InitializeFactory();
+                }
+                return _sessionFactory;
+            }
         }
         protected abstract ISessionFactory InitializeFactory();
 
