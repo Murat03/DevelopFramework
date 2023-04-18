@@ -133,6 +133,10 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DevelopFramework.BikeStores.Business\DevelopFramework.BikeStores.Business.csproj">
+      <Project>{7f623833-51bb-4c22-a81d-faf4c5835264}</Project>
+      <Name>DevelopFramework.BikeStores.Business</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DevelopFramework.BikeStores.Entities\DevelopFramework.BikeStores.Entities.csproj">
       <Project>{5E17D81E-203C-494A-BF37-DB5CD16E1E2D}</Project>
       <Name>DevelopFramework.BikeStores.Entities</Name>
@@ -140,10 +144,6 @@
     <ProjectReference Include="..\DevelopFramework.Core\DevelopFramework.Core.csproj">
       <Project>{89A0F8F7-E51C-445B-B741-73E413FAA6DB}</Project>
       <Name>DevelopFramework.Core</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\DevelopFramewrok.BikeStores.Business\DevelopFramewrok.BikeStores.Business.csproj">
-      <Project>{7F623833-51BB-4C22-A81D-FAF4C5835264}</Project>
-      <Name>DevelopFramewrok.BikeStores.Business</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

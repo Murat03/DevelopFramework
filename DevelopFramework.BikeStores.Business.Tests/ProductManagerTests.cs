@@ -1,6 +1,6 @@
 ﻿using DevelopFramework.BikeStores.DataAccess.Abstract;
 using DevelopFramework.BikeStores.Entities.Concrete;
-using DevelopFramewrok.BikeStores.Business.Concrete.Managers;
+using DevelopFramework.BikeStores.Business.Concrete.Managers;
 using FluentValidation;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;

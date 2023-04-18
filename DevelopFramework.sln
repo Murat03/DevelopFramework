@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopFramework.BikeStores
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopFramework.BikeStores.WebApi", "DevelopFramework.BikeStores.WebApi\DevelopFramework.BikeStores.WebApi.csproj", "{E82F7E6E-F787-4540-82A1-9735CB76E397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopFramewrok.BikeStores.Business", "DevelopFramewrok.BikeStores.Business\DevelopFramewrok.BikeStores.Business.csproj", "{7F623833-51BB-4C22-A81D-FAF4C5835264}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopFramework.BikeStores.Business", "DevelopFramework.BikeStores.Business\DevelopFramework.BikeStores.Business.csproj", "{7F623833-51BB-4C22-A81D-FAF4C5835264}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

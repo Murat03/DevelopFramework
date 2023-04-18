@@ -1,5 +1,5 @@
 using DevelopFramework.Core.Utilities.Mvc.Infrastructure;
-using DevelopFramewrok.BikeStores.Business.DependencyResolvers.Ninject;
+using DevelopFramework.BikeStores.Business.DependencyResolvers.Ninject;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +9,7 @@ using System.Web.Routing;
 
 namespace DevelopFramework.BikeStores.MvcWebUI
 {
-    public class MvcApplication : System.Web.HttpApplication
+    public class MvcApplication : HttpApplication
     {
         protected void Application_Start()
         {

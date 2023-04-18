@@ -72,7 +72,6 @@ D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\obj\Debug\DevelopFramework.BikeStores.MvcWebUI.pdb
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\log4net.config
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramework.BikeStores.Entities.dll
-D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramewrok.BikeStores.Business.dll
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramework.Core.dll
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\FluentValidation.dll
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramework.BikeStores.DataAccess.dll
@@ -89,8 +88,6 @@ D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\Iesi.Collections.dll
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramework.BikeStores.Entities.pdb
-D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramewrok.BikeStores.Business.pdb
-D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramewrok.BikeStores.Business.dll.config
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramework.Core.pdb
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramework.Core.dll.config
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\FluentValidation.xml
@@ -115,3 +112,6 @@ D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\obj\Debug\DevelopFramework.BikeStores.MvcWebUI.dll.postsharp
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\EntityFramework.SqlServer.dll
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\EntityFramework.SqlServer.xml
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramework.BikeStores.Business.dll
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramework.BikeStores.Business.pdb
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramework.BikeStores.Business.dll.config
