@@ -45,3 +45,5 @@ D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.Entities
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.Entities\bin\Debug\System.Web.WebPages.Razor.xml
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.Entities\bin\Debug\System.Web.Razor.xml
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.Entities\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.Entities\bin\Debug\AutoMapper.dll
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.Entities\bin\Debug\AutoMapper.xml

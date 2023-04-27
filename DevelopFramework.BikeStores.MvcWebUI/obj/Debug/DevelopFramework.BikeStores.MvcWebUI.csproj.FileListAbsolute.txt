@@ -115,3 +115,5 @@ D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramework.BikeStores.Business.dll
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramework.BikeStores.Business.pdb
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\DevelopFramework.BikeStores.Business.dll.config
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\AutoMapper.dll
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI\bin\AutoMapper.xml

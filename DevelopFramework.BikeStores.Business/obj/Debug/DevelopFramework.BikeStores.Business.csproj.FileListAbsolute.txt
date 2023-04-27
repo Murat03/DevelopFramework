@@ -62,3 +62,5 @@ D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.Business
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.Business\obj\Debug\DevelopFramework.BikeStores.Business.dll.postsharp
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.Business\obj\Debug\DevelopFramework.BikeStores.Business.dll
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.Business\obj\Debug\DevelopFramework.BikeStores.Business.pdb
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.Business\bin\Debug\AutoMapper.dll
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.Business\bin\Debug\AutoMapper.xml

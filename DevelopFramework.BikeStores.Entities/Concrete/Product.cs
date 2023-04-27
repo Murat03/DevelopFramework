@@ -17,7 +17,5 @@ namespace DevelopFramework.BikeStores.Entities.Concrete
         public virtual int brand_id { get; set; }
         public virtual Int16 model_year { get; set; }
         public virtual decimal list_price { get; set; }
-
-
     }
 }

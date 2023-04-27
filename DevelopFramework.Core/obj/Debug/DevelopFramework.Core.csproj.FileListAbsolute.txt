@@ -49,3 +49,5 @@ D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.Core\bin\Debug\Syst
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.Core\bin\Debug\System.Web.WebPages.xml
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.Core\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.Core\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.Core\bin\Debug\AutoMapper.dll
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.Core\bin\Debug\AutoMapper.xml

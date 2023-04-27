@@ -78,6 +78,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DevelopFramework.BikeStores.Business\DevelopFramework.BikeStores.Business.csproj">
+      <Project>{7f623833-51bb-4c22-a81d-faf4c5835264}</Project>
+      <Name>DevelopFramework.BikeStores.Business</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DevelopFramework.BikeStores.DataAccess\DevelopFramework.BikeStores.DataAccess.csproj">
       <Project>{E4E17397-2DC0-4508-9C63-C69CE1925F32}</Project>
       <Name>DevelopFramework.BikeStores.DataAccess</Name>

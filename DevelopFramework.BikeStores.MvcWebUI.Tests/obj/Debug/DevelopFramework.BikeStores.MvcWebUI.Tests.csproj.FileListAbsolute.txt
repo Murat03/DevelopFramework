@@ -28,7 +28,6 @@ D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\log4net.config
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\DevelopFramework.BikeStores.MvcWebUI.Tests.dll.config
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\DevelopFramework.BikeStores.Entities.dll
-D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\DevelopFramewrok.BikeStores.Business.dll
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\DevelopFramework.Core.dll
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\Ninject.dll
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
@@ -47,8 +46,6 @@ D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\Iesi.Collections.dll
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\DevelopFramework.BikeStores.Entities.pdb
-D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\DevelopFramewrok.BikeStores.Business.pdb
-D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\DevelopFramewrok.BikeStores.Business.dll.config
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\DevelopFramework.Core.pdb
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\DevelopFramework.Core.dll.config
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\Ninject.xml
@@ -68,3 +65,6 @@ D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\Antlr3.Runtime.xml
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\Iesi.Collections.xml
 D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\DevelopFramework.BikeStores.Business.dll
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\DevelopFramework.BikeStores.Business.pdb
+D:\Yazilim\C#\CSharpCourse\DevelopFramework\DevelopFramework.BikeStores.MvcWebUI.Tests\bin\Debug\DevelopFramework.BikeStores.Business.dll.config

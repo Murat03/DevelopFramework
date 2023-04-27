@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopFramework.BikeStores
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopFramework.BikeStores.Business", "DevelopFramework.BikeStores.Business\DevelopFramework.BikeStores.Business.csproj", "{7F623833-51BB-4C22-A81D-FAF4C5835264}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopFramework.BikeStores.MvcAngularUI", "DevelopFramework.BikeStores.MvcAngularUI\DevelopFramework.BikeStores.MvcAngularUI.csproj", "{AE0264F1-5DBA-4E88-93E9-8C34195FE60D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{7F623833-51BB-4C22-A81D-FAF4C5835264}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F623833-51BB-4C22-A81D-FAF4C5835264}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F623833-51BB-4C22-A81D-FAF4C5835264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE0264F1-5DBA-4E88-93E9-8C34195FE60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0264F1-5DBA-4E88-93E9-8C34195FE60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0264F1-5DBA-4E88-93E9-8C34195FE60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0264F1-5DBA-4E88-93E9-8C34195FE60D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

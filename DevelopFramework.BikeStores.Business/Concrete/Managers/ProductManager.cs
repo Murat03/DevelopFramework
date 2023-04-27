@@ -20,25 +20,33 @@ using System.Transactions;
 using System.Diagnostics;
 using DevelopFramework.Core.Aspects.PostSharp.PerformanceAspects;
 using System.Threading;
+using DevelopFramework.Core.Aspects.PostSharp.AuthorizationAspects;
+using AutoMapper;
+using DevelopFramework.Core.Utilities.Mappings;
 
 namespace DevelopFramework.BikeStores.Business.Concrete.Managers
 {
     public class ProductManager : IProductService
     {
         private IProductDal _productDal;
+        private readonly IMapper _mapper;
 
-        public ProductManager(IProductDal productDal)
+        public ProductManager(IProductDal productDal,IMapper mapper)
         {
             _productDal = productDal;
+            _mapper = mapper;
         }
 
         [CacheAspect(typeof(MemoryCacheManager))]
         [PerformanceCounterAspect(2)]
+        [SecuredOperation(Roles="Admin,Editor,Student")]
         public List<Product> GetAll()
         {
-            return _productDal.GetList();
+            List<Product> products = _mapper.Map<List<Product>>(_productDal.GetList());
+            return products;
         }
 
+        
         public Product GetById(int id)
         {
             return _productDal.Get(p=>p.product_id == id);
