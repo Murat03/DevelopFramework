@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Symbols LinesOfCode="77" PostSharpLinesOfCode="0" xmlns="http://schemas.postsharp.org/2.0/symbols">
   <Class Class="#1=T:[DevelopFramework.Core]DevelopFramework.Core.Aspects.PostSharp.LogAspects.LogAspect">
-    <Instance Declaration="#2=A:DevelopFramework.BikeStores.Business" Id="9c555e90d1cfbb68">
+    <Instance Declaration="#2=A:DevelopFramework.BikeStores.Business" Id="9c555e9030aa4508">
       <Target Target="#3=M:[DevelopFramework.BikeStores.Business]DevelopFramework.BikeStores.Business.Concrete.Managers.ProductManager::GetAll()">
         <JoinPoint Advising="#1" Description="#4=Wrapped by advice(s) OnEntry, OnSuccess, OnException, OnExit" Ordinal="5" />
       </Target>
@@ -26,7 +26,7 @@
     </Instance>
   </Class>
   <Class Class="#11=T:[DevelopFramework.Core]DevelopFramework.Core.Aspects.PostSharp.PerformanceAspects.PerformanceCounterAspect">
-    <Instance Declaration="#2" Id="9c555e904bfed851">
+    <Instance Declaration="#2" Id="9c555e903a47acc1">
       <Target Target="#3">
         <JoinPoint Advising="#11" Description="#4" Ordinal="7" />
       </Target>
@@ -55,52 +55,52 @@
         <JoinPoint Advising="#11" Description="#4" Ordinal="30" />
       </Target>
     </Instance>
-    <Instance Declaration="#3" Id="9c555e90db739f89">
+    <Instance Declaration="#3" Id="9c555e90916c230e">
       <Target>
         <JoinPoint Advising="#11" Description="#4" Ordinal="6" />
       </Target>
     </Instance>
   </Class>
   <Class Class="#14=T:[DevelopFramework.Core]DevelopFramework.Core.Aspects.PostSharp.AuthorizationAspects.SecuredOperation">
-    <Instance Declaration="#3" Id="9c555e90578cf6ff">
+    <Instance Declaration="#3" Id="9c555e90064c9bff">
       <Target>
         <JoinPoint Advising="#14" Description="#4" Ordinal="3" />
       </Target>
     </Instance>
   </Class>
   <Class Class="#15=T:[DevelopFramework.Core]DevelopFramework.Core.Aspects.PostSharp.ValidationAspects.FluentValidationAspect">
-    <Instance Declaration="#5" Id="9c555e905a1d9ee2">
+    <Instance Declaration="#5" Id="9c555e9029db6c4c">
       <Target>
         <JoinPoint Advising="#15" Description="#4" Ordinal="11" />
       </Target>
     </Instance>
-    <Instance Declaration="#6" Id="9c555e9020f6df6a">
+    <Instance Declaration="#6" Id="9c555e90fd8ed95b">
       <Target>
         <JoinPoint Advising="#15" Description="#4" Ordinal="16" />
       </Target>
     </Instance>
-    <Instance Declaration="#7" Id="9c555e9000b85944">
+    <Instance Declaration="#7" Id="9c555e9068e6d2b1">
       <Target>
         <JoinPoint Advising="#15" Description="#4" Ordinal="20" />
       </Target>
     </Instance>
   </Class>
   <Class Class="#16=T:[DevelopFramework.Core]DevelopFramework.Core.Aspects.PostSharp.CacheAspects.CacheRemoveAspect">
-    <Instance Declaration="#5" Id="9c555e90df0f46e3">
+    <Instance Declaration="#5" Id="9c555e906c572aed">
       <Target>
         <JoinPoint Advising="#16" Description="#4" Ordinal="12" />
       </Target>
     </Instance>
   </Class>
   <Class Class="#17=T:[DevelopFramework.Core]DevelopFramework.Core.Aspects.PostSharp.TransactionAspects.TransactionScopeAspect">
-    <Instance Declaration="#7" Id="9c555e90121a2036">
+    <Instance Declaration="#7" Id="9c555e90be978794">
       <Target>
         <JoinPoint Advising="#17" Description="#4" Ordinal="21" />
       </Target>
     </Instance>
   </Class>
   <Class Class="#18=T:[DevelopFramework.Core]DevelopFramework.Core.Aspects.PostSharp.ExceptionAspects.ExceptionLogAspect">
-    <Instance Declaration="#2" Id="9c555e904ff0c7bb">
+    <Instance Declaration="#2" Id="9c555e9001c42fc9">
       <Target Target="#3">
         <JoinPoint Advising="#18" Description="#19=Wrapped by advice(s) OnException" Ordinal="2" />
       </Target>
@@ -131,7 +131,7 @@
     </Instance>
   </Class>
   <Class Class="#20=T:[DevelopFramework.Core]DevelopFramework.Core.Aspects.PostSharp.CacheAspects.CacheAspect">
-    <Instance Declaration="#3" Id="9c555e90f4ce461f">
+    <Instance Declaration="#3" Id="9c555e90466757c2">
       <Target>
         <JoinPoint Advising="#20" Description="#21=Intercepted by OnInvoke" Ordinal="4" />
       </Target>
